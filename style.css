@@ -1,0 +1,111 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+}
+
+body {
+  background-color: black;
+  font-family: "Inter Tight", sans-serif;
+
+  
+}
+
+#perfil img {
+  height: 100px;
+  display: block;
+  margin: auto;
+  margin-top: 80px;
+  border: 2px solid white;
+  border-radius: 50%;
+}
+
+p {
+  color: white;
+
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  text-align: center;
+  padding-top: 24px;
+  padding-bottom: 25px;
+}
+
+#lista {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+}
+
+ul {
+  list-style: none;
+}
+
+#lista ul a {
+  display: flex;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  margin: 9px auto;
+  gap: 9px;
+  border: 1px solid rgb(255, 255, 255, 0.6);
+  width: 320px;
+  height: 50px;
+  color: white;
+  border-radius: 9999px;
+  transition: all;
+  transition-duration: 0.2s;
+}
+
+
+
+#lista ul a:hover {
+
+  background-color: rgb(255, 255, 255, 0.1);
+  border: 1px solid white;
+
+}
+
+#botoes {
+  color: white;
+  justify-content: center;
+  display: flex;
+  padding: 18px;
+  font-size: 18px;
+  gap: 8px;
+  
+}
+
+#botoes ul {
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+
+  transition: all;
+  transition-duration: 0.2s;
+  border-radius: 50%;
+  
+}
+
+#botoes ul a  {
+  color: white;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+#botoes ul:hover {
+  
+background-color: rgb(255, 255, 255, 0.1);
+  border-radius: 50%;
+  align-items: center;
+  justify-content: center;
+ 
+}
