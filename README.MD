@@ -6,7 +6,7 @@
 
 Projeto construído com base nas aulas do Discover.
 
-[🔗 Clique aqui para acessar](https://github.com/Arielntc/)
+[🔗 Clique aqui para acessar](https://app.rocketseat.com.br/discover)
 
 ## 🛠 Tecnologias
 
